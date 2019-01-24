@@ -26,7 +26,6 @@
                 <item name="number" xsi:type="string">0123456789</item>
             </data>
             <data name="tag" xsi:type="string">severity:S1</data>
-            <data name="tag" xsi:type="string">stable:no</data><!-- MAGETWO-89369 -->
             <constraint name="Magento\Shipping\Test\Constraint\AssertTrackingDetailsIsPresent" />
         </variation>
     </testCase>
